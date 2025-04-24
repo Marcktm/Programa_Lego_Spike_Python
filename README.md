@@ -53,10 +53,10 @@ Cada proyecto está diseñado para una clase semanal, enfocado en programación 
     *Robot recolector que limpia una superficie simulando tareas domésticas o industriales.*
 
 15. [Campo de entrenamiento 1](https://education.lego.com/es-es/lessons/prime-competition-ready/training-camp-1-driving-around/)  
-    *Sistema de pinzas robóticas controladas por motor para agarrar objetos.*
+    *Pasar obstaculos.*
 
 16. [Campo de entrenamiento 3](https://education.lego.com/en-us/support/spike-prime/building-instructions/)  
-    *Dispositivo de asistencia para ejercicios de relajación y respiración guiada.*
+    *seguidor de linea.*
 
 ---
 
